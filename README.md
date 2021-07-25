@@ -27,11 +27,6 @@ I’m currently developing my skills in the following areas
 <br/>
 
 # 🚀 My Toolkit:
-
-## Languages
-
-<a href="" title="" target="_blank"> <img src=""/> </a>
-
 <p align="left"> 
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C Sharp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a>
     <a href="https://en.wikipedia.org/wiki/Visual_Basic" title="Visual Basic" target="_blank"> <img src="https://img.icons8.com/ios/48/000000/visual-basic.png"/> </a>
@@ -41,29 +36,14 @@ I’m currently developing my skills in the following areas
     <a href="https://www.java.com" title="Java" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
     <a href="https://www.w3.org/html/" title="HTML5" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" title="CSS3" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-</p>
-<br/>
-
-## Tools
-<p align="left"> 
     <a href="https://aws.amazon.com" title="Amazon Web Services" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
     <a href="https://git-scm.com/" title="Git" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-</p>
-<br/>
-
-## IDE's
-<p align="left"> 
     <a href="https://visualstudio.microsoft.com/" title="Visual Studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/> </a>
     <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
     <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> </a>    
-</p>
-<br/>
-
-## Operating Systems
-<p align="left"> 
-    <a href="" title="Windows" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/windows-10.png"/> </a>
-    <a href="" title="Raspbian" target="_blank"> <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/> </a>
-    <a href="" title="Kali Linux" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/> </a>
+    <a href="https://www.microsoft.com/en-gb/windows/get-windows-10" title="Windows" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/windows-10.png"/> </a>
+    <a href="https://www.raspberrypi.org/software/operating-systems/" title="Raspbian" target="_blank"> <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/> </a>
+    <a href="https://www.kali.org/" title="Kali Linux" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/> </a>
 </p>
 
 ( My preferred shell is Git Bash through Windows Terminal ).

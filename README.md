@@ -1,8 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Boris</h1>
 <h3 align="left">Software Engineer. My career will be complete when I have some code sent to space.</h3>
 
-<br/>
-
 # 💻 Projects I'm working on
 Here are the main projects I'm currently working on.
 - **CNC Machine Control Software** 
@@ -14,8 +12,6 @@ Here are the main projects I'm currently working on.
 - **Monster AutoUploader** 
   ( Web scraper to allow tiktok/instagram influencers to easily time their uploads. )
 
-<br/>
-
 # 📚 Learning areas
 I’m currently developing my skills in the following areas
 - **Cloud Computing**
@@ -23,8 +19,6 @@ I’m currently developing my skills in the following areas
 - **Machine Learning** 
 - **Unix Systems**
 - **Fullstack development**
-
-<br/>
 
 # 🚀 My Toolkit:
 <p align="left"> 

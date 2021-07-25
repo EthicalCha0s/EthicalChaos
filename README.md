@@ -2,7 +2,7 @@
 <h3 align="left">Software Engineer. My career will be complete when I have some code sent to space.</h3>
 
 # 💻 Projects I'm working on
-Here are the main projects I'm currently working on.
+Here are the main projects I'm currently working on:
 - **CNC Machine Control Software** 
   ( Main work [@Blackman & White](https://blackmanandwhite.com/). Sadly can't disclose too much about it yet. )
 - **Environement Sensing and Control System** 
@@ -13,7 +13,7 @@ Here are the main projects I'm currently working on.
   ( Web scraper to allow tiktok/instagram influencers to easily time their uploads. )
 
 # 📚 Learning areas
-I’m currently developing my skills in the following areas
+I’m currently developing my skills in the following areas:
 - **Cloud Computing**
 - **Team Management** 
 - **Machine Learning** 

@@ -12,6 +12,13 @@ Here are the main projects I'm currently working on:
 - **Monster AutoUploader** 
   ( Web scraper to allow tiktok/instagram influencers to easily time their uploads. )
 
+  <p align="center">
+  <a href="https://github.com/EthicalChaos">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EthicalChaos&layout=compact&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EthicalChaos&layout=compact&langs_count=8&hide=MATLAB"/>
+  </a>
+</p>
+
 # 📚 Learning areas
 I’m currently developing my skills in the following areas:
 - **Cloud Computing**

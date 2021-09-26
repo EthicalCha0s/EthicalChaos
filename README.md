@@ -18,7 +18,7 @@ Here are the main projects I'm currently working on:
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EthicalChaos&layout=compact&langs_count=8&hide=MATLAB"/>
   </a>
   <br/>
-  (These stats do not show my activity on private repositories.)
+  (These stats do not reflect my activity on private repositories.)
 </p>
 
 # 📚 Learning areas

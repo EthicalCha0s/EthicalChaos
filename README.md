@@ -31,13 +31,14 @@ I’m currently developing my skills in the following areas:
 
 # 🚀 My Toolkit:
 <p align="left"> 
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C Sharp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a>
-    <a href="https://en.wikipedia.org/wiki/Visual_Basic" title="Visual Basic" target="_blank"> <img src="https://img.icons8.com/ios/48/000000/visual-basic.png"/> </a>
     <a href="https://www.python.org" title="Python" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://reactjs.org/" title="React.js" target="_blank"> <img src="https://img.icons8.com/office/48/000000/react.png"/> </a>
-    <a href="https://flutter.dev/" title="Flutter" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>  
+    <a href="https://rubyonrails.org/" title="Ruby on Rails" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/> </a>
+    <a href="https://docs.soliditylang.org/en/v0.8.11/" title="Solidity" target="_blank"><img src="https://img.icons8.com/color/48/000000/ethereum.png"/> </a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C Sharp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a>
+    <a href="https://en.wikipedia.org/wiki/Visual_Basic" title="Visual Basic" target="_blank"> <img src="https://img.icons8.com/ios/48/000000/visual-basic.png"/> </a>
     <a href="https://www.java.com" title="Java" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
-    <a href="https://www.w3.org/html/" title="HTML5" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" title="CSS3" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://aws.amazon.com" title="Amazon Web Services" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
     <a href="https://git-scm.com/" title="Git" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
@@ -47,6 +48,7 @@ I’m currently developing my skills in the following areas:
     <a href="https://www.microsoft.com/en-gb/windows/get-windows-10" title="Windows" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/windows-10.png"/> </a>
     <a href="https://www.raspberrypi.org/software/operating-systems/" title="Raspbian" target="_blank"> <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/> </a>
     <a href="https://www.kali.org/" title="Kali Linux" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/> </a>
+    <a href="https://flutter.dev/" title="Flutter" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
 </p>
 
-( My preferred shell is Git Bash through Windows Terminal ).
+( My preferred shell is Git Bash through Windows Terminal 👨‍💻).

@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Boris</h1>
+<h1 align="left">Hi 👋, I'm Boris</h1>
 <h3 align="left">Software Engineer. My career will be complete when I have some code sent to space.</h3>
 
 # 💻 Projects I'm working on
